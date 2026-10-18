@@ -1,0 +1,1 @@
+{"mempool_endpoint":"https://localhost:9090","receive_gap_limit":20,"change_gap_limit":5,"sats_denominated":true,"network":"Mainnet"}
